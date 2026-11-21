@@ -1,4 +1,4 @@
-# 🚌 Durham Region Transit: Scheduled Service Analysis (GTFS)
+# Durham Region Transit: Scheduled Service Analysis (GTFS)
 
 **How frequent is bus service across Durham Region, where are the gaps, and how much does service drop on weekends?**
 
