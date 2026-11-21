@@ -1,5 +1,7 @@
 # Durham Region Transit: Scheduled Service Analysis (GTFS)
 
+![Tools: SQL + Python tests](https://img.shields.io/badge/Tools-SQL%20%2B%20Python%20tests-1F3A5F?style=flat-square) ![Domain: Public transit](https://img.shields.io/badge/Domain-Public%20transit-4A5568?style=flat-square) ![Data: Public (GTFS)](https://img.shields.io/badge/Data-Public%20%28GTFS%29-lightgrey?style=flat-square) ![Status: Results pending](https://img.shields.io/badge/Status-Results%20pending-orange?style=flat-square)
+
 **How frequent is bus service across Durham Region, where are the gaps, and how much does service drop on weekends?**
 
 Uses **real, public data**: Durham Region Transit's official GTFS schedule feed. As a dispatcher on a Durham Region paratransit contract, I see daily how the conventional network shapes demand for specialized and on-demand trips. This project measures that network directly.
